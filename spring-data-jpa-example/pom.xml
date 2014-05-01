@@ -12,7 +12,7 @@
 	</parent>
 
 	<name>Spring Data JPA - Sample project</name>
-	<description>Small sample project showing the usage of Sprign Data JPA.</description>
+	<description>Small sample project showing the usage of Spring Data JPA.</description>
 
 	<dependencies>
 
